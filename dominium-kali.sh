@@ -12,7 +12,7 @@ echo -e "\e[1;91m
       echo -e "\e[1;91m                                                                                                                                    
  + -- --=[ \e[1;94msimple.osint.builds v1.1.2    \e[1;91m]
  + -- --=[ \e[1;94mhttps://github.com/ghoste9624 \e[1;91m]
- + -- --=[ \e[1;94mDominium > Domain Full Scan   \e[1;91m]\e[1;97m"     
+ + -- --=[ \e[1;94mDominium \e[1;91m> \e[1;94mDomain Full Scan   \e[1;91m]\e[1;97m"     
       echo ""
       read -p "  Run Dominium? [y/n] > " choice
       case $choice in
