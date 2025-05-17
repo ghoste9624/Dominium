@@ -12,7 +12,7 @@ chmod +x * && ./install.sh
 
 <br>
 
-![alt text]()
+![alt text](https://github.com/ghoste9624/Dominium/blob/main/Screenshot_20250517-014753_Termux.jpg)
 
 <br>
 
