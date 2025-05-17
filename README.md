@@ -12,6 +12,16 @@ chmod +x * && ./install.sh
 
 <br>
 
+```bash
+git clone https://github.com/ghoste9624/Dominium
+cd ~/Dominium 
+chmod +x * && ./kali-install.sh 
+./dominium-kali.sh
+
+```
+
+<br>
+
 Updated on 
 
 ``
