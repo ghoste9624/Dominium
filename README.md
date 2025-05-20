@@ -3,6 +3,10 @@ Domain Full Scan
 
 <br>
 
+* Termux
+
+<br>
+
 ```bash
 git clone https://github.com/ghoste9624/Dominium
 cd ~/Dominium 
@@ -13,6 +17,10 @@ chmod +x * && ./install.sh
 <br>
 
 ![alt text](https://github.com/ghoste9624/Dominium/blob/main/Screenshot_20250517-014753_Termux.jpg)
+
+<br>
+
+* Kali Linux
 
 <br>
 
@@ -29,5 +37,5 @@ chmod +x * && ./kali-install.sh
 Updated on 
 
 ``
-May 17, 2025 12:00
+May 20, 2025 19:30
 ``
