@@ -3,7 +3,7 @@ Domain Full Scan
 
 <br>
 
-* Termux
+* Termux Installation
 
 <br>
 
@@ -20,7 +20,7 @@ chmod +x * && ./install.sh
 
 <br>
 
-* Kali Linux
+* Kali Linux Installation 
 
 <br>
 
