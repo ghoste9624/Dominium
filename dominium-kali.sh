@@ -39,7 +39,7 @@ echo -e "\e[1;91m
       nmap -sV -A $target --script-trace --script=http-headers --unprivileged | tee -a ~/Dominium/scans/$target
       echo -e "\e[1;92m"
       traceroute $target | tee -a ~/Dominium/scans/$target
-      nano ~/Dominium/scans/$target 
+      vim ~/Dominium/scans/$target 
       echo ""
       echo -e " \e[1;94mFile Saved \e[1;91m> \e[1;96m~/Dominium/scans/$target\e[1;97m"
       ;;
